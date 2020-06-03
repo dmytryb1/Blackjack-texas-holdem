@@ -1,2 +1,2 @@
-# Blackjack-hexas-holdem
+# Blackjack-texas-holdem
 Blackjack game
